@@ -8,4 +8,6 @@ let x;                  //undefined data type
 
 let missingName = 'null'  //null data type
 
+// git is giving me some issues
+
 
